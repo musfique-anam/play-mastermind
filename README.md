@@ -1,6 +1,8 @@
 # Mastermind (CLI Edition)
 A Python Command-Line Version of the classic Mastermind game. Guess the secret number within limited attempts using feedback on correct digits.
 
+![Game CLI Screenshot](image/play.png)
+
 ## Features
 
 - Choose difficulty: 3, 4, or 5 digits (default is 4 digits).
